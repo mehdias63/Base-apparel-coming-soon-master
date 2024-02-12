@@ -11,6 +11,7 @@ export default {
         "black": "#423A3A",
         "pink": "#F8BFBF",
         "dark-pink": "#EE8B8B",
+        "very-light-pink":"#f4caca"
       },
     },
   },
