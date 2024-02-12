@@ -1,6 +1,6 @@
-# Frontend Mentor - Recipe page
+# Frontend Mentor - Base Apparel coming soon page
 
-This is a solution to the [Recipe page component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Base Apparel coming soon page component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,8 +23,8 @@ This is a solution to the [Recipe page component challenge on Frontend Mentor](h
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mehdias63/Recipe-Page)
-- Live Site URL: [Add live site URL here](https://recipe-page-six-lemon.vercel.app)
+- Solution URL: [Add solution URL here](https://github.com/mehdias63/Base-apparel-coming-soon-master)
+- Live Site URL: [Add live site URL here](https://base-apparel-coming-soon-master-mu-ecru.vercel.app)
 
 ## My process
 

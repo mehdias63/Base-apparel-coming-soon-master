@@ -17,7 +17,7 @@ function App() {
             COMING <br />
             SOON
           </h1>
-          <p className="text-light-pink mb-12 px-8 md:px-0">
+          <p className="text-light-pink mb-14 mt-4 px-8 md:px-0">
             Hello fellow shoppers! We're currently building our new fashion
             store. Add your email below to stay up-to-date with announcements
             and our launch deals.
