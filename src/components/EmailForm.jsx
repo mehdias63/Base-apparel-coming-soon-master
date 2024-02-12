@@ -45,6 +45,7 @@ function EmailForm() {
           <img
             src="/images/icon-error.svg"
             className="absolute right-0 top-4 mr-28"
+            alt="icon"
           />
         )}
       </div>
