@@ -3,7 +3,7 @@ import EmailForm from "./components/EmailForm";
 
 function App() {
   return (
-    <main className="flex min-h-screen flex-col items-center  bg-[url(../public/images/bg-pattern-desktop.svg)] bg-no-repeat bg-cover ">
+    <main className="flex min-h-screen flex-col items-center  bg-[url(/images/bg-pattern-desktop.svg)] bg-no-repeat bg-cover ">
       <div className="grid md:grid-cols-2 font-josef max-w-[60rem]">
         <div className="p-8 md:col-start-1 md:row-start-1 ">
           <img src="/images/logo.svg" alt="logo" />
